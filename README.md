@@ -6,7 +6,6 @@ Projekt ten zawiera zadanie domowe
 ## Struktura katalogów
 - `pages/`: Klasy Page Object dla różnych stron aplikacji.
 - `tests/`: Pliki testowe.
-- `reports/`: Raporty z wynikami testów.
 - `requirements.txt`: Zależności projektu.
 - `README.md`: Dokumentacja projektu.
 
@@ -20,4 +19,4 @@ Projekt ten zawiera zadanie domowe
     pytest --html=report.html
 
     ```
-3. Raport z testów znajdziesz w `reports/test_report.html`.
+3. Raport z testów znajdziesz w `report.html`.
